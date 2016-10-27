@@ -7,5 +7,5 @@
     - 3
     - 6
     - 9
-      For example : "0,3,6,9".
-      For this example the robot will simulate the mooves and output the final score for the moove. 
+     For example : "0,3,6,9".
+     For this example the robot will simulate the mooves and output the final score for the moove. 
